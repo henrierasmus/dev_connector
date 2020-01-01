@@ -15,9 +15,6 @@ const ProfileEducation = ({
 			<p>
 				<strong>Degree</strong> {degree}
 			</p>
-			<p>
-				<strong>Field of Study</strong> {fieldofstudy}
-			</p>
 		</div>
 	);
 };
